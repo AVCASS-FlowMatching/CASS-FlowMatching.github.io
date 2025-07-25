@@ -133,5 +133,8 @@ body {
   font-size: smaller;
 }
 
-
+#References {
+  border-top: 1px solid #ccc;
+  padding-top: 2rem;
+}
 
