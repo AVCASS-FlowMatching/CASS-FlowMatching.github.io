@@ -1,4 +1,5 @@
 *.html
 !index.html
+!all_videos.html
 *.py
 *.txt
